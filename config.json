@@ -1,0 +1,13 @@
+{
+  "block_textures_path": "textures/blocks",
+  "item_textures_path": "textures/items",
+  "supportedTextures": [
+    ".tga",
+    ".png"
+  ],
+  "indent": 2,
+  "padding": 8,
+  "num_mip_levels": 4,
+  "resource_pack_name.terrain": "vanilla",
+  "resource_pack_name.item": "vanilla"
+}
